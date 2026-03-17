@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Utility DepositMonth (RM)_utilityDeposit</name>
+   <tag></tag>
+   <elementGuidId>b1686b05-a5b9-4ba0-b3f2-3e5077cd2629</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-6.col-sm-12 > #utilityDeposit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id='utilityDeposit'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3293f243-5b14-4835-b32a-5ce515c5b2e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Utility Deposit 1 Month (RM)</value>
+      <webElementGuid>a753ec88-9ab1-4ed0-bdde-b9e53040facf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>15863b42-3eb2-4c75-a121-95fbadb2738f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>utilityDeposit</value>
+      <webElementGuid>8f26d9b2-d9e3-443a-8f6e-b9135275e4bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-control-sm</value>
+      <webElementGuid>d8f9efa0-9d45-4829-8f46-dc5e0851b61e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_modal_create_app_form&quot;)/div[@class=&quot;current&quot;]/div[@class=&quot;w-100&quot;]/div[@class=&quot;rental-detail row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;mb-3 align-items-center row&quot;]/div[@class=&quot;col-md-6 col-sm-12&quot;]/input[@id=&quot;utilityDeposit&quot;]</value>
+      <webElementGuid>cdba18d6-53b6-4a90-92bf-ca17687ec646</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@id='utilityDeposit'])[2]</value>
+      <webElementGuid>06a18fd3-778d-4723-9c46-7cbd37e18ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='kt_modal_create_app_form']/div[2]/div/div[4]/div/div[3]/div/input</value>
+      <webElementGuid>61c5b2bd-fc6f-49bf-8ae4-4d2df9453d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[3]/div/input</value>
+      <webElementGuid>12f4ff46-dc26-4183-8d35-f9fed6857293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Utility Deposit 1 Month (RM)' and @type = 'text' and @id = 'utilityDeposit']</value>
+      <webElementGuid>36f8e6a4-8c34-47ff-abb4-3a7b211919aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

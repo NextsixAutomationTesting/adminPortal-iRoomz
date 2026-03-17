@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_concat(Type tenant, , s full name mobile contact email to search tenant)_css-liki3c</name>
+   <tag></tag>
+   <elementGuidId>58a9eaf9-d14c-4e60-8b08-c1071cedc82c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[5]/div/div/div/div/div/div[2]/form/div[2]/div/div[1]/div/div/div[1]/div[2]/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.current > div > div.mb-3 > div.css-b62m3t-container > div.css-r5vfb9-control > div.css-t6uyiw > div.css-liki3c</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ec14a8bd-8760-49d7-a8cc-ef0e01d8c8f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-liki3c</value>
+      <webElementGuid>5ae7c52d-7d9b-4c2c-97f0-2ed25927e187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_modal_create_app_form&quot;)/div[@class=&quot;current&quot;]/div[1]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;css-b62m3t-container&quot;]/div[@class=&quot;css-r5vfb9-control&quot;]/div[@class=&quot;css-t6uyiw&quot;]/div[@class=&quot;css-liki3c&quot;]</value>
+      <webElementGuid>4ec54bd2-c791-4e7d-acd0-b424222468d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='kt_modal_create_app_form']/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>1775fead-f5af-4666-b67e-756baf961e26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenant Full Name | Mobile Contact | Email Address'])[1]/following::div[5]</value>
+      <webElementGuid>0d104818-6132-4f71-8b5d-ca8e12c22967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::div[2]</value>
+      <webElementGuid>05a61a17-684c-4398-8d02-87c6ec04745c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next Step'])[2]/preceding::div[2]</value>
+      <webElementGuid>ee79aa1b-f0a0-4dda-a980-2afb9b6101ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>9fafef54-8b3c-4597-83c3-5493f7034f3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

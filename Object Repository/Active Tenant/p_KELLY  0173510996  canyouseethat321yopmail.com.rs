@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_KELLY  0173510996  canyouseethat321yopmail.com</name>
+   <tag></tag>
+   <elementGuidId>0091dfa3-dba5-4c3d-9960-45093b6c6847</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-33-option-0 > div > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-33-option-0']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3ec52fa5-9740-4e71-ba7b-ff0886e7ce7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KELLY | 0173510996 | canyouseethat321@yopmail.com</value>
+      <webElementGuid>15ce00a6-a3da-45cb-8641-9000193de01c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-33-option-0&quot;)/div[1]/p[1]</value>
+      <webElementGuid>88fe2ed6-c590-4ea1-af7d-947d0654a07a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-33-option-0']/div/p</value>
+      <webElementGuid>dab7f57e-23f4-4489-9efa-e404f7ed33f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recommendation'])[1]/following::p[1]</value>
+      <webElementGuid>440f245b-1603-46fb-b3ac-f9d9e381c04b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All selected options have been cleared.'])[1]/following::p[1]</value>
+      <webElementGuid>b4943d4a-e5f4-4eaa-bd71-19c811b94c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::p[130]</value>
+      <webElementGuid>29cf5762-ee31-49de-8485-03d5c6c7bc88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next Step'])[2]/preceding::p[130]</value>
+      <webElementGuid>62bb538a-5dfc-4e64-9a80-6fd9a5df2fdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>e72e4a57-011d-4aee-88b6-dad42cfff6b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'KELLY | 0173510996 | canyouseethat321@yopmail.com' or . = 'KELLY | 0173510996 | canyouseethat321@yopmail.com')]</value>
+      <webElementGuid>07b3b509-d974-48c4-83ed-b6dc85c9ffb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
