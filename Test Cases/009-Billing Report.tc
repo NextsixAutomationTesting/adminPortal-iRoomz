@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>009-Billing Report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0dd52f15-14bd-4d28-bb7e-4a850a408c71</testCaseGuid>
+</TestCaseEntity>

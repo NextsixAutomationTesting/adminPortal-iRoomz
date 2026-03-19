@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_State_css-liki3c</name>
+   <tag></tag>
+   <elementGuidId>e245dd67-dcb9-489f-9e91-223964b457bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[5]/div/div/div/form/div[2]/div/div/div/div[5]/div/div[3]/div[2]/div/div/div/div[1]/div[2]/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-liki3c</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bab9c7f8-659b-4a3c-b882-e8b2e7017945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-liki3c</value>
+      <webElementGuid>c5be5dde-573b-44ff-9a44-be544ed416f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_modal_create_app_form&quot;)/div[@class=&quot;accordion&quot;]/div[@class=&quot;accordion-item&quot;]/div[@class=&quot;accordion-collapse collapse show&quot;]/div[@class=&quot;accordion-body&quot;]/div[5]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 col-sm-12&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;css-b62m3t-container&quot;]/div[@class=&quot;css-r5vfb9-control&quot;]/div[@class=&quot;css-t6uyiw&quot;]/div[@class=&quot;css-liki3c&quot;]</value>
+      <webElementGuid>0a62e47f-decb-47a5-8ea9-3af75fa8deab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='kt_modal_create_app_form']/div[2]/div/div/div/div[5]/div/div[3]/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>e79ae8b6-82a1-41c1-8249-d3c3b9d386eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[2]/following::div[1]</value>
+      <webElementGuid>d7cb8c85-a9b3-43ed-89a1-cf0111d0843d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::div[5]</value>
+      <webElementGuid>63d2093f-3d4b-4e3a-85e2-f11ceee5e3bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/preceding::div[3]</value>
+      <webElementGuid>4ce26aa0-8724-4db3-b826-91b6ecb383b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>7cdfbb98-b11a-4cc2-b92c-9c32c25a4ba7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

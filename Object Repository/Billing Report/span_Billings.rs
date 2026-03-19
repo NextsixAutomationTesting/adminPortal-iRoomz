@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Billings</name>
+   <tag></tag>
+   <elementGuidId>4c862a01-d2cf-4f79-aced-2a0ae38608a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu-sub.menu-sub-accordion.show > div.menu-item > a.menu-link.without-sub > span.menu-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='#kt_app_sidebar_menu']/div[9]/div/div/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3c15c3c8-cdcd-46a9-9a2e-44e051eb0c10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title</value>
+      <webElementGuid>203884e0-1f85-4337-917d-bbad7f359806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Billings </value>
+      <webElementGuid>6679400d-e91d-4f17-ae6a-e31a4a181ec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;#kt_app_sidebar_menu&quot;)/div[@class=&quot;menu-item menu-accordion hover show&quot;]/div[@class=&quot;menu-sub menu-sub-accordion show&quot;]/div[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link without-sub&quot;]/span[@class=&quot;menu-title&quot;]</value>
+      <webElementGuid>d1a3612b-4610-4edf-bf2e-0beb1e90712c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='#kt_app_sidebar_menu']/div[9]/div/div/a/span[2]</value>
+      <webElementGuid>b88b0ef5-ab18-41e3-9d7f-4bf8243d540e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounting'])[1]/following::span[3]</value>
+      <webElementGuid>1509cc4a-2f37-4f73-9abb-03aff165922c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='coming soon'])[1]/following::span[6]</value>
+      <webElementGuid>1f21ae81-f920-4831-a075-cc8b4c911671</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Receipts'])[1]/preceding::span[2]</value>
+      <webElementGuid>ccea15ed-d474-47f0-b508-80a12d8bfd6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deposit Refund'])[1]/preceding::span[4]</value>
+      <webElementGuid>3f543e7d-4945-4881-b77a-14e8bb08f21d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Billings']/parent::*</value>
+      <webElementGuid>dd191b8a-3df3-43b9-b3e0-c5e7cde58148</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/a/span[2]</value>
+      <webElementGuid>70eec874-d7e2-4e8e-bb67-956659db61f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Billings ' or . = 'Billings ')]</value>
+      <webElementGuid>957a7325-674a-4834-b3e7-44f1451138a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

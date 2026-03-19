@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Type to search unit_css-b2ai5y</name>
+   <tag></tag>
+   <elementGuidId>4c92d7ce-871f-4457-a898-85c1e4158556</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-b2ai5y</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[5]/div/div/div/div/div/div[2]/form/div[1]/div/div[1]/div/div/div[1]/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d390d889-94c4-4b4a-9e73-173b86174930</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-b2ai5y</value>
+      <webElementGuid>e89808db-0946-49b1-a33b-9df7da6ac5f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_modal_create_app_form&quot;)/div[@class=&quot;current&quot;]/div[1]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;css-b62m3t-container&quot;]/div[@class=&quot;css-1slrduq-control&quot;]/div[@class=&quot;css-t6uyiw&quot;]/div[@class=&quot;css-b2ai5y&quot;]</value>
+      <webElementGuid>35ec8853-2c44-488c-9e8d-aa4a59fd1e65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='kt_modal_create_app_form']/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>11ff69ac-eb1e-4741-af98-5ef28397c06d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type to search unit'])[1]/following::div[1]</value>
+      <webElementGuid>7ad9094c-004e-4450-81fd-1c495ccd3678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit Name'])[2]/following::div[5]</value>
+      <webElementGuid>8fdad46e-cc7d-4abb-b8de-8f7470cc7a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next Step'])[1]/preceding::div[2]</value>
+      <webElementGuid>802cbfb2-6be9-4793-9daf-c545fb0cf485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator Details'])[2]/preceding::div[3]</value>
+      <webElementGuid>81b7be5b-e866-4483-ba65-53eeb0976622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>4b727f1d-9df1-4962-8666-b3f16fc5863d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

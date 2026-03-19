@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006-Assign Operator</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b22c2b2d-ba14-43c0-8a51-9ac3a84e9721</testCaseGuid>
+</TestCaseEntity>

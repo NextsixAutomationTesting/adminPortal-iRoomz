@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yi re NI SHI</name>
+   <tag></tag>
+   <elementGuidId>5bb32886-2bbb-4e73-8ecd-b76d88cd98cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.customer-info-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[3]/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Yi re NI SHI' or . = 'Yi re NI SHI')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8c291fab-9d82-4eac-a9f9-d6695abb05d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>customer-info-wrapper</value>
+      <webElementGuid>63ba2f27-ce96-4dd3-a948-76af48cc9ccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yi re NI SHI</value>
+      <webElementGuid>2f7db1cf-01f6-489d-b509-04f2bf35a43e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_datatable_vertical_scroll&quot;)/tbody[1]/tr[@class=&quot;landlord-data-row mainRow&quot;]/td[@class=&quot;owner-name&quot;]/span[@class=&quot;customer-info-wrapper&quot;]</value>
+      <webElementGuid>d041848b-9c19-46e3-972a-249146d6568b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='kt_datatable_vertical_scroll']/tbody/tr/td[3]/span</value>
+      <webElementGuid>afa9414c-0e4a-4466-bfd6-2f7acda46aa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::span[1]</value>
+      <webElementGuid>64734221-3560-4926-bbf9-28d7bb7b70db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Summary Count'])[1]/following::span[2]</value>
+      <webElementGuid>c7c61c2f-5f5d-4895-8832-f55ab9f3fbae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank:'])[1]/preceding::span[3]</value>
+      <webElementGuid>a6165dec-4c7f-4b49-b598-7f9873f08714</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yi re NI SHI']/parent::*</value>
+      <webElementGuid>80e16ccd-96a3-4924-bad4-535404a648e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/span</value>
+      <webElementGuid>e90f600b-cdcd-4924-8e97-f66faa91b9b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Yi re NI SHI' or . = 'Yi re NI SHI')]</value>
+      <webElementGuid>2d4c1e00-9227-498e-b98c-24d60a9d3156</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>008-Create Owner Signup Link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba880017-2a9f-47fb-b168-c2a3c3a64d32</testCaseGuid>
+</TestCaseEntity>

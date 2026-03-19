@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Gareth Geyer</name>
+   <tag></tag>
+   <elementGuidId>74783ef6-5397-42a2-b22d-bb8e3bb32a6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.customer-info-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[3]/div/div[2]/div[2]/div[1]/div/div/div/div[5]/div/div/table/tbody/tr[1]/td[3]/span[1]/text()</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;kt_datatable_vertical_scroll&quot;)/tbody[1]/tr[@class=&quot;landlord-data-row mainRow&quot;]/td[@class=&quot;owner-name&quot;]/span[@class=&quot;customer-info-wrapper&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>53e09ecd-badf-4198-8e46-dd38c64d3db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>customer-info-wrapper</value>
+      <webElementGuid>f1e8ca63-35f5-4047-bf5b-cb8229582fad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gareth Geyer</value>
+      <webElementGuid>c48bc4c7-0108-40e4-9c25-ac9ee60f5825</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_datatable_vertical_scroll&quot;)/tbody[1]/tr[@class=&quot;landlord-data-row mainRow&quot;]/td[@class=&quot;owner-name&quot;]/span[@class=&quot;customer-info-wrapper&quot;]</value>
+      <webElementGuid>3983bce8-f358-4d71-8a16-551d3999e3b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='kt_datatable_vertical_scroll']/tbody/tr/td[3]/span</value>
+      <webElementGuid>5a249cf4-57be-41e8-bb51-feb2d65f5bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::span[1]</value>
+      <webElementGuid>efe18006-c523-4f25-98e8-098de80fd284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Summary Count'])[1]/following::span[2]</value>
+      <webElementGuid>c1cecbab-335a-462e-be1b-1a06cd19272e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank:'])[1]/preceding::span[3]</value>
+      <webElementGuid>ceb4daf5-e641-4345-8cdc-e765cd811156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gareth Geyer']/parent::*</value>
+      <webElementGuid>2d500a74-c7ff-4391-b32f-c60076044c61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/span</value>
+      <webElementGuid>737ed1d4-dcc5-47c7-8944-eb230c45a990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Gareth Geyer' or . = 'Gareth Geyer')]</value>
+      <webElementGuid>267f1ad9-c371-4b8d-9daf-732be050cbea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

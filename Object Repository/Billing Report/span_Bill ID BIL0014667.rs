@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Bill ID BIL0014667</name>
+   <tag></tag>
+   <elementGuidId>fd9f1458-a479-4603-bc33-886390cde0dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dr-bill-container > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='kt_datatable_vertical_scroll']/tbody/tr/td[5]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>462c23d4-9535-45b7-a058-27cff0f67a8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bill ID: BIL0014667</value>
+      <webElementGuid>24ffac5f-9daa-4ca7-b7d5-c24c202a8297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_datatable_vertical_scroll&quot;)/tbody[1]/tr[@class=&quot;mainRow&quot;]/td[@class=&quot;pay-for&quot;]/div[@class=&quot;dr-bill-container&quot;]/span[1]</value>
+      <webElementGuid>394153dd-8605-4a69-9e8a-dcc32767c81c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='kt_datatable_vertical_scroll']/tbody/tr/td[5]/div/span</value>
+      <webElementGuid>d18a4e02-7eb6-4739-9932-eb9cded7efe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APRIL0123456789april@gmail.com'])[1]/following::span[1]</value>
+      <webElementGuid>7978279b-349c-44a0-9a8b-ac0651b55007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APRIL'])[1]/following::span[2]</value>
+      <webElementGuid>f4366249-1d3f-4cac-a0d7-a22077d2d116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Property Room Name:'])[1]/preceding::span[1]</value>
+      <webElementGuid>5355843a-23d9-4966-8324-6ee24dd0d427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bill ID:']/parent::*</value>
+      <webElementGuid>60e6c077-6d8f-4251-bfba-9102dd1c2174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/div/span</value>
+      <webElementGuid>5fe0811b-8afb-40b0-9400-91ce29334565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Bill ID: BIL0014667' or . = 'Bill ID: BIL0014667')]</value>
+      <webElementGuid>48456d1f-a2b5-4f4b-b6d0-ee4a988387e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

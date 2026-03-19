@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Active Operator</name>
+   <tag></tag>
+   <elementGuidId>4f38849c-afa9-47f6-9d27-9a43d24d4318</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='#kt_app_sidebar_menu']/div[5]/div/div[2]/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5d20b059-42fe-4d4a-b9a5-5eb013ab470f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title</value>
+      <webElementGuid>fa277e02-a7f2-4831-ab4b-9d14c0c45425</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Active Operator </value>
+      <webElementGuid>7261ce79-12c1-443b-8a37-cf48b836c7d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;#kt_app_sidebar_menu&quot;)/div[@class=&quot;menu-item menu-accordion hover show&quot;]/div[@class=&quot;menu-sub menu-sub-accordion show&quot;]/div[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link without-sub&quot;]/span[@class=&quot;menu-title&quot;]</value>
+      <webElementGuid>36f276ca-4057-4cc5-8822-bdc457598864</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='#kt_app_sidebar_menu']/div[5]/div/div[2]/a/span[2]</value>
+      <webElementGuid>ca03565f-a9c9-482a-9bfd-233553a3678b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator Data'])[1]/following::span[2]</value>
+      <webElementGuid>5554991c-388a-47e6-833c-edd81e790fd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator'])[1]/following::span[5]</value>
+      <webElementGuid>a18fb5cd-4101-48ff-80d4-8b9493505a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner'])[1]/preceding::span[2]</value>
+      <webElementGuid>09be1002-5908-4bff-9d9b-81189dce679f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner Data'])[1]/preceding::span[6]</value>
+      <webElementGuid>b5f6758e-91c6-45ff-a44b-a1442494c78e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Active Operator']/parent::*</value>
+      <webElementGuid>fa70781b-5cbc-4185-9378-93eecbb88174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/a/span[2]</value>
+      <webElementGuid>68e39c96-c578-4ea1-ad17-2a5e83a961eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Active Operator ' or . = 'Active Operator ')]</value>
+      <webElementGuid>570ee315-f62c-4eaf-8674-d9b144fdd531</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

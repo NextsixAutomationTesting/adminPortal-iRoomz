@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>003-Create Tenant Signup Link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8f22ea1e-9054-4d44-8a62-09a1b9ae787b</testCaseGuid>
+</TestCaseEntity>

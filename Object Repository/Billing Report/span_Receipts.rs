@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Receipts</name>
+   <tag></tag>
+   <elementGuidId>eff81efd-c243-4bf3-8ab4-0f2caee95531</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='#kt_app_sidebar_menu']/div[9]/div/div[2]/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6cbb5813-6f1b-4c54-866c-02083b665ec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title</value>
+      <webElementGuid>5b16c5ec-1a86-471e-a985-417527f1efde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Receipts </value>
+      <webElementGuid>07573ffd-8ac9-48cd-ad02-67762bf7da37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;#kt_app_sidebar_menu&quot;)/div[@class=&quot;menu-item here show menu-accordion&quot;]/div[@class=&quot;menu-sub menu-sub-accordion menu-active-bg&quot;]/div[@class=&quot;menu-item&quot;]/a[@class=&quot;menu-link without-sub&quot;]/span[@class=&quot;menu-title&quot;]</value>
+      <webElementGuid>f213a845-afb6-488d-aa24-11876a40f308</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='#kt_app_sidebar_menu']/div[9]/div/div[2]/a/span[2]</value>
+      <webElementGuid>1d0e9d74-5e7d-4793-abd9-c62b61947cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billings'])[1]/following::span[2]</value>
+      <webElementGuid>cea145d9-c93e-4791-96ec-234112e3bb47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounting'])[1]/following::span[5]</value>
+      <webElementGuid>7ed9e4ce-579d-43a4-80de-3673c7ba2959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deposit Refund'])[1]/preceding::span[2]</value>
+      <webElementGuid>78313e6d-6621-4f67-b28a-40d94014df33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expenses'])[1]/preceding::span[4]</value>
+      <webElementGuid>cc818404-9f12-424a-8e4a-7321ff348f86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Receipts']/parent::*</value>
+      <webElementGuid>345727d7-f0ff-4a2a-81f4-0602013ca976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div[2]/a/span[2]</value>
+      <webElementGuid>577cdf44-1d35-4509-96b0-052ba52021b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Receipts ' or . = 'Receipts ')]</value>
+      <webElementGuid>3b9c153b-c429-4646-803f-52dcd939a994</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

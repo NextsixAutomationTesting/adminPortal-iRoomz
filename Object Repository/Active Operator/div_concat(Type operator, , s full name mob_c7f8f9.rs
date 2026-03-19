@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_concat(Type operator, , s full name mob_c7f8f9</name>
+   <tag></tag>
+   <elementGuidId>59923a3b-2e50-4a54-b239-b90dd90ff952</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-zlyzdq-control > div.css-t6uyiw > div.css-b2ai5y</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[5]/div/div/div/div/div/div[2]/form/div[2]/div/div[1]/div/div[1]/div[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>decfa199-d311-4dba-8da1-18edcd2a3290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-b2ai5y</value>
+      <webElementGuid>1149427f-a113-435e-a817-f9ce5c1c7db7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_modal_create_app_form&quot;)/div[@class=&quot;current&quot;]/div[1]/div[@class=&quot;css-b62m3t-container&quot;]/div[@class=&quot;css-zlyzdq-control&quot;]/div[@class=&quot;css-t6uyiw&quot;]/div[@class=&quot;css-b2ai5y&quot;]</value>
+      <webElementGuid>7189a340-146a-4adb-a3c0-1a0d778d2600</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='kt_modal_create_app_form']/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>711a1e42-993e-4855-a944-1a2825e43acc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator Details'])[2]/following::div[5]</value>
+      <webElementGuid>97450190-e796-4235-9467-b86e8810703d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Found'])[1]/preceding::div[2]</value>
+      <webElementGuid>7957d66a-c07b-42df-9f45-bc25a748d4b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Operator'])[1]/preceding::div[3]</value>
+      <webElementGuid>b94c3dac-0e0a-4f21-bdd7-257917d3a721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>d0e7c853-7de7-423c-bbce-ef9dfa7762cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

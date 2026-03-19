@@ -6,11 +6,12 @@
    <UUID>bacc8a8e-ec4a-495f-8715-b84dfb54f7c4</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>11.0.1</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>11.0.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\HP\git\adminPortal-iRoomz\adminPortal-iRoomz.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
