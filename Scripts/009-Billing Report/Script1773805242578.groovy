@@ -23,7 +23,11 @@ WebUI.click(findTestObject('Billing Report/span_Accounting'))
 
 WebUI.click(findTestObject('Billing Report/span_Billings'))
 
-WebUI.getText(findTestObject('Billing Report/span_BIL0014909'))
+bill = WebUI.getText(findTestObject('Billing Report/span_BIL0014909'))
+
+billid = ('Bill ID: ' + bill)
+
+unit = WebUI.getText(findTestObject('Billing Report/span_NYY6870'))
 
 WebUI.click(findTestObject('Billing Report/div_Issued - Payment Failed'))
 
@@ -33,5 +37,31 @@ WebUI.click(findTestObject('Billing Report/div_Select payment method_select__inp
 
 WebUI.click(findTestObject('Billing Report/div_Cash'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('Billing Report/input_Receipt Date_receiptDate'), '')
+file1 = 'C:\\file1.png'
 
+WebUI.uploadFile(findTestObject('Billing Report/div_Upload New Attachment_at-input-upload'), file1)
+
+WebUI.click(findTestObject('Billing Report/span_Confirm'))
+
+WebUI.click(findTestObject('Billing Report/span_Receipts'))
+
+WebUI.verifyElementText(findTestObject('Billing Report/span_Bill ID BIL0014667'), billid)
+
+WebUI.click(findTestObject('Billing Report/span_Accounting'))
+
+WebUI.click(findTestObject('Billing Report/span_Report'))
+
+WebUI.click(findTestObject('Billing Report/span_Management Property Payout Report'))
+
+WebUI.setText(findTestObject('Billing Report/input_Logout_form-control td-filter-input'), unit)
+
+WebUI.click(findTestObject('Billing Report/button_search'))
+
+if(WebUI.verifyElementNotVisible(findTestObject('Billing Report/unit_title')))
+	{
+    WebUI.selectOptionByIndex(findTestObject('Billing Report/select_Management UnitNon-Management Unit'), 1)
+	
+	WebUI.click(findTestObject('Billing Report/button_search'))
+	}
+
+WebUI.click(findTestObject('Billing Report/button_search'))

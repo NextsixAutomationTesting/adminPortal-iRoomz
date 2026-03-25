@@ -6,12 +6,12 @@
    <elementGuidId>4a4bd413-ddd1-41ff-a51b-c28169ec7581</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.at-input-upload</value>
+         <key>XPATH</key>
+         <value>/html/body/div[5]/div/div/div/div[3]/div/div[2]/section/div/input</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='kt_modal_create_app']/div/div/div[3]/div/div[2]/section/div/div</value>
+         <key>CSS</key>
+         <value>div.at-input-upload</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>adfe33d5-bb42-4733-959f-56345221a7ba</webElementGuid>
+      <webElementGuid>76b31580-d7b3-4ede-a2e9-4db6f793917e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>at-input-upload</value>
-      <webElementGuid>7f59710c-4a35-4904-939e-d11826b5daac</webElementGuid>
+      <webElementGuid>9b8d2a2a-3fa9-4748-9c9e-e11c12a1e57d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kt_modal_create_app&quot;)/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[3]/div[1]/div[@class=&quot;at-input&quot;]/section[1]/div[1]/div[@class=&quot;at-input-upload&quot;]</value>
-      <webElementGuid>125fa6a7-849e-453c-9cd1-b6f6015a7967</webElementGuid>
+      <webElementGuid>cd9758da-1e95-4a17-b9ca-38fa95d72418</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='kt_modal_create_app']/div/div/div[3]/div/div[2]/section/div/div</value>
-      <webElementGuid>0ca39106-7287-4a45-a593-8e5ca9a849a3</webElementGuid>
+      <webElementGuid>5d58dac1-8aac-4f65-9d5e-77d8a0c75aa7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,6 +55,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div/div</value>
-      <webElementGuid>2437236d-9746-4769-87cc-57e06075c3e5</webElementGuid>
+      <webElementGuid>8ffe5a11-9e62-4918-b9f0-c381d62e09ac</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
