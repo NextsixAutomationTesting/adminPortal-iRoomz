@@ -6,12 +6,12 @@
    <elementGuidId>aed7c14b-7be7-4356-a413-82d0a949cb2c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#react-select-2-option-5</value>
+         <key>XPATH</key>
+         <value>//div[2]/div/div[6]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='react-select-2-option-5']</value>
+         <key>CSS</key>
+         <value>#react-select-2-option-5</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>a58bbe68-204d-42ee-9495-05b14530b57f</webElementGuid>
+      <webElementGuid>210ee674-c630-4f75-a3c5-a33f99566a0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select__option select__option--is-focused css-d7l1ni-option</value>
-      <webElementGuid>6455ba37-ad82-470f-b5df-ef59e12ff223</webElementGuid>
+      <webElementGuid>ea7c34e9-a8f6-4cb0-933f-2db1a8b4b8f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0965a938-baf9-40ac-b3e1-849aa71ea1ed</webElementGuid>
+      <webElementGuid>1a4c3585-ae1d-4752-a2c0-c0793d667e74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-select-2-option-5</value>
-      <webElementGuid>ad20c062-ce64-4c72-b89b-0f60369f7cc4</webElementGuid>
+      <webElementGuid>0f20571d-b04a-4d05-8d64-02cd0b76bf69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>c4cbc3dc-9844-4001-8168-0fcb4f2d8a7b</webElementGuid>
+      <webElementGuid>898f143a-0094-4a8f-a64f-1f5e50cfebb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>bb7d1b67-bc9b-4b0c-930f-6dee05cdfce5</webElementGuid>
+      <webElementGuid>9516d796-62ea-4ef3-9d03-b3150c5968d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>7fed6602-d35b-43f6-83cd-e0c0461c4e15</webElementGuid>
+      <webElementGuid>15966aed-88bf-4d36-972c-5ef08eb209be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Paid</value>
-      <webElementGuid>aaff23dc-f251-43c5-8896-f6cfe46d0797</webElementGuid>
+      <webElementGuid>7b701d15-ef0e-4399-b6ed-ad38f2ef58ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-select-2-option-5&quot;)</value>
-      <webElementGuid>fc0fb317-c65f-4a8f-a03c-1d3b3ad89dbc</webElementGuid>
+      <webElementGuid>718992e6-5dc0-4044-b35e-c50d7e7306f8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='react-select-2-option-5']</value>
-      <webElementGuid>fb543e33-8752-49a3-8423-1a6c54921ee9</webElementGuid>
+      <webElementGuid>8e0d0e7f-7f70-40c6-aa98-bc521a501c49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='react-select-2-listbox']/div[6]</value>
-      <webElementGuid>1b3a5671-4470-4e51-b9ed-c157019765e2</webElementGuid>
+      <webElementGuid>a968e406-ef81-4a39-9afc-3a31e5ce4166</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[2]/following::div[1]</value>
-      <webElementGuid>748776b1-c6a1-4a9b-b7f4-e08fb485cf2c</webElementGuid>
+      <webElementGuid>53a81f6f-5f79-4c61-a03d-6121dbe67f31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Issued - Payment In Progress'])[2]/following::div[2]</value>
-      <webElementGuid>e7f6ffc7-77e8-4396-8dd7-b1f17b6d1848</webElementGuid>
+      <webElementGuid>603b2adc-c7c1-4245-945a-ec8597490560</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelled'])[2]/preceding::div[1]</value>
-      <webElementGuid>dae3a2a2-6882-4d73-8808-2e2ce33a0d52</webElementGuid>
+      <webElementGuid>43073d0d-5ea4-465d-ad62-4b026d446355</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/preceding::div[2]</value>
-      <webElementGuid>a8318f31-d673-4868-9d03-4f2bfc093431</webElementGuid>
+      <webElementGuid>eed57818-fc5f-423d-b38e-fc16bfffe6c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[6]</value>
-      <webElementGuid>04bdd5a1-32d5-4396-bbf2-de1b2e3ed166</webElementGuid>
+      <webElementGuid>25b0892b-bd79-4e15-8b02-34932f4ff728</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +151,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'react-select-2-option-5' and (text() = 'Paid' or . = 'Paid')]</value>
-      <webElementGuid>160d3156-9e79-4027-8c3c-73ea11648324</webElementGuid>
+      <webElementGuid>860543e6-eb84-4c83-a34c-85d0faa8454c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

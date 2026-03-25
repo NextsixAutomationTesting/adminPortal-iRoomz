@@ -23,11 +23,21 @@ WebUI.click(findTestObject('Billing Report/span_Accounting'))
 
 WebUI.click(findTestObject('Billing Report/span_Billings'))
 
+WebUI.check(findTestObject('Billing Report/input_Refund_type'))
+
+WebUI.click(findTestObject('Billing Report/button_search'))
+
 bill = WebUI.getText(findTestObject('Billing Report/span_BIL0014909'))
 
 billid = ('Bill ID: ' + bill)
 
 unit = WebUI.getText(findTestObject('Billing Report/span_NYY6870'))
+
+amount = WebUI.getText(findTestObject('Billing Report/span_1260.00'))
+
+report = (amount + '\n'+'Show More')
+
+WebUI.doubleClick(findTestObject('Billing Report/div_Issued - Payment Failed'))
 
 WebUI.click(findTestObject('Billing Report/div_Issued - Payment Failed'))
 
@@ -57,11 +67,12 @@ WebUI.setText(findTestObject('Billing Report/input_Logout_form-control td-filter
 
 WebUI.click(findTestObject('Billing Report/button_search'))
 
-if(WebUI.verifyElementNotVisible(findTestObject('Billing Report/unit_title')))
+if (WebUI.verifyElementNotPresent(findTestObject('Billing Report/h4_UWR3551')))
 	{
-    WebUI.selectOptionByIndex(findTestObject('Billing Report/select_Management UnitNon-Management Unit'), 1)
-	
-	WebUI.click(findTestObject('Billing Report/button_search'))
+		WebUI.selectOptionByIndex(findTestObject('Billing Report/select_Management UnitNon-Management Unit'), 1)
+		
+		WebUI.click(findTestObject('Billing Report/button_search'))
 	}
 
-WebUI.click(findTestObject('Billing Report/button_search'))
+WebUI.verifyElementText(findTestObject('Billing Report/td_1260.00Show More'), report)
+

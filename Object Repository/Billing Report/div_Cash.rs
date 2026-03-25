@@ -6,15 +6,19 @@
    <elementGuidId>6b6b5f94-23e5-4c63-b61e-677dd03b0361</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>XPATH</key>
+         <value>//div[5]/div/div/div/div/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Cash' or . = 'Cash')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#react-select-22-option-1</value>
       </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='react-select-22-option-1']</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>bf3b75d6-ea7e-496f-90e2-d74514654b59</webElementGuid>
+      <webElementGuid>35490001-b07b-4e9b-80db-9b6b68897fc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select__option select__option--is-focused css-d7l1ni-option</value>
-      <webElementGuid>25d84b0d-bcc0-433f-b9ea-538c96d4f728</webElementGuid>
+      <webElementGuid>e194c21c-2b54-4e7c-85b0-c44c28caeb88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,15 +43,15 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f055f899-5f27-441f-9c05-bd61682bede4</webElementGuid>
+      <webElementGuid>d10e68ad-99a9-4853-8f68-a76f9157892f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
       <value>react-select-22-option-1</value>
-      <webElementGuid>45aac406-fd34-4508-99ae-4a5fb77adbec</webElementGuid>
+      <webElementGuid>c5733b7c-22d8-4928-b763-78f545936acd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>eeebd569-cd2b-46c6-9e9b-8df37d4fd6f8</webElementGuid>
+      <webElementGuid>cda1047c-636d-4edd-89a1-2bbe5a3bcadd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>6324f940-fbe5-4c68-ac3d-dd130a04f2b2</webElementGuid>
+      <webElementGuid>4903f4c4-c41f-4fcf-afd3-4baf98b79e86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>cedbd2cf-a287-4c52-8ba2-74c7caca762b</webElementGuid>
+      <webElementGuid>a5d71aea-5098-41c1-9b88-11ff319811c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +83,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cash</value>
-      <webElementGuid>0a30c442-4382-4dbc-9d56-333c9eb66855</webElementGuid>
+      <webElementGuid>1fd5e052-2956-4d60-b6b6-3b8015836e8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-select-22-option-1&quot;)</value>
-      <webElementGuid>497142c4-8368-472a-a76f-47a399ef1faf</webElementGuid>
+      <webElementGuid>407de62c-a01d-4785-bcf0-b3b45081fc0c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +99,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='react-select-22-option-1']</value>
-      <webElementGuid>e2ec366c-7eb3-43b5-b95f-c0f063c9e2a1</webElementGuid>
+      <webElementGuid>3b9e1165-1c42-487c-b3a2-ed9a8bc3c3fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +107,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='react-select-22-listbox']/div[2]</value>
-      <webElementGuid>cb38e0e4-98da-4ffd-abe4-246391229f40</webElementGuid>
+      <webElementGuid>b67ca54c-83f6-4e20-b24f-491c7ee121e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +115,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Card'])[1]/following::div[1]</value>
-      <webElementGuid>02d63003-0b78-4a40-8c56-bdac616b1cca</webElementGuid>
+      <webElementGuid>be4b0224-537c-4a53-a5b0-6acf1dee9d4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +123,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select payment method'])[1]/following::div[7]</value>
-      <webElementGuid>4e192d24-e349-494b-a747-35d5f74e82e7</webElementGuid>
+      <webElementGuid>ae2a22a2-2666-4b75-99eb-e1e4c37496ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +131,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cheque'])[1]/preceding::div[1]</value>
-      <webElementGuid>51d5e75e-b2c0-40e0-9af5-e9522ecf8c68</webElementGuid>
+      <webElementGuid>2359107a-98f1-4cd5-874f-319eb1d6413d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +139,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank In / Manual Transfer'])[1]/preceding::div[2]</value>
-      <webElementGuid>b164abf9-1686-4797-846d-114881596e42</webElementGuid>
+      <webElementGuid>db7ed031-b275-44f7-8dbd-8d632006b6ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +147,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Cash']/parent::*</value>
-      <webElementGuid>890a94eb-11d0-4701-b957-419b55e85097</webElementGuid>
+      <webElementGuid>5a7b3868-491c-4620-b195-675ef20af46a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +155,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/div/div/div/div[2]/div/div[2]</value>
-      <webElementGuid>fb1bc96e-6d64-41b3-9158-a07cc55a9a13</webElementGuid>
+      <webElementGuid>e2e93a19-be2b-4ca5-be79-2923c0f2460d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,6 +163,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'react-select-22-option-1' and (text() = 'Cash' or . = 'Cash')]</value>
-      <webElementGuid>ff9f316b-c201-4310-9edd-464a440feebe</webElementGuid>
+      <webElementGuid>dc073124-3c55-4077-8565-ed327e3615c7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

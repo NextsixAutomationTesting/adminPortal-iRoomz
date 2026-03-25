@@ -7,14 +7,129 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.td-filter-search-btn</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[1]/div[3]/div/div[2]/div[2]/div[1]/div/div/div/div[1]/div[2]/div/button</value>
+         <value>//button[@type='submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>be107fca-e0da-4b24-ada0-45a2a6b179e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>td-filter-search-btn</value>
+      <webElementGuid>d6dfeccd-d3b4-4450-bd5f-96f358d3fe11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>dfcea2cf-8937-4d2a-b7c5-118e5e5ec11d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>eec1efdd-b1f9-4271-9a4d-4ee2783da661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_app_content_container&quot;)/div[@class=&quot;page-billing&quot;]/div[@class=&quot;td-filter-group&quot;]/div[@class=&quot;search-bill&quot;]/div[@class=&quot;form-control td-filter-search-group&quot;]/button[@class=&quot;td-filter-search-btn&quot;]</value>
+      <webElementGuid>e6e62f6d-d211-4aa8-8330-b7b98f4faa3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>cdf85302-91cc-4ea5-bbc9-a8ef28084c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_app_content_container']/div/div[6]/div/div/button</value>
+      <webElementGuid>297bb43e-8390-466b-8236-9369582ab1b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advance Rental'])[1]/following::button[1]</value>
+      <webElementGuid>67333f0e-77ce-48ba-b7e6-ee62d7b470c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Deposit'])[1]/following::button[1]</value>
+      <webElementGuid>a2836ae2-9297-4269-9b5e-baf6e30cb51b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Bill'])[1]/preceding::button[1]</value>
+      <webElementGuid>de860716-6217-4468-9763-792e9b7783c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit E-Invoice'])[1]/preceding::button[2]</value>
+      <webElementGuid>1ab339fc-1978-41c3-bca7-a31c3f9e66eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
+      <webElementGuid>e3e397de-a1b1-4727-935b-5b734edf4925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/button</value>
+      <webElementGuid>18f6efc5-4daf-489d-8a48-fe2c1a872849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Search' or . = 'Search')]</value>
+      <webElementGuid>57577373-e3bd-4da8-9325-ca83023a6381</webElementGuid>
+   </webElementXpaths>
 </WebElementEntity>

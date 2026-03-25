@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>010-Create Landlord</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c3476c1-6b76-4062-b8f6-c3cfacc35358</testCaseGuid>
+</TestCaseEntity>

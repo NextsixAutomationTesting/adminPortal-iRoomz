@@ -6,12 +6,16 @@
    <elementGuidId>66a43769-23b6-4848-ade0-d67d28500c4e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>td:nth-of-type(8)</value>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[3]/div/div[2]/div[2]/div[1]/div/div/div/div[3]/div/div/div[2]/table/tbody/tr[1]/td[11]/text()</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//table[@id='kt_datatable_vertical_scroll']/tbody/tr/td[8]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = '1950.00Show More' or . = '1950.00Show More')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(8)</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>894f71de-4026-4a15-b9ee-80f20988fe84</webElementGuid>
+      <webElementGuid>e516a1c6-6a2c-477b-992c-b19ed116c74f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <name>rowspan</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>6d52dcd4-27ec-41d6-b8b0-7103d3e5160b</webElementGuid>
+      <webElementGuid>909915b6-1b99-4d7c-ba0e-4e82a914c2fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +43,7 @@
       <name>text</name>
       <type>Main</type>
       <value>1950.00Show More</value>
-      <webElementGuid>bd61b717-e55f-417d-aad4-ad2003efa051</webElementGuid>
+      <webElementGuid>d3725a62-a33c-4dc6-a907-05c3302797f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +51,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kt_app_content_container&quot;)/div[@class=&quot;page-propertyPayoutReport&quot;]/div[@class=&quot;table-overflow&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;scrollable&quot;]/table[@id=&quot;kt_datatable_vertical_scroll&quot;]/tbody[@class=&quot;fw-normal fs-8 text-gray-800 pr-table-content&quot;]/tr[@class=&quot;pr-row-border&quot;]/td[8]</value>
-      <webElementGuid>54725f1c-069b-4061-be26-a64cdd5df764</webElementGuid>
+      <webElementGuid>5eb11822-50eb-4b78-9bc7-901ec4a2ec6c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//table[@id='kt_datatable_vertical_scroll']/tbody/tr/td[8]</value>
-      <webElementGuid>78d536fc-cc8f-4b38-aa1f-823974599a28</webElementGuid>
+      <webElementGuid>c0fb534b-b027-4f93-83f1-71d8c35f16b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PIERRE WINCHINTI'])[1]/following::td[5]</value>
-      <webElementGuid>fa0ae2d1-e8be-4e1f-833c-6892ec0c0c61</webElementGuid>
+      <webElementGuid>ee8a36e4-056e-402e-b4df-dc6d3f4e32fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='UWR3551_Room 1'])[1]/following::td[6]</value>
-      <webElementGuid>14626a71-3035-408d-8f4b-24a72cacfa59</webElementGuid>
+      <webElementGuid>e859eb44-dc06-4d2b-ad71-ce4a51116e29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::td[1]</value>
-      <webElementGuid>42ebbee9-72b1-4267-b96e-f5f659d55bb5</webElementGuid>
+      <webElementGuid>eef95e70-13fd-4d8c-984d-f8addd0d42bf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[8]</value>
-      <webElementGuid>76cc162d-0d54-4ecc-b60f-e2e7160fd63d</webElementGuid>
+      <webElementGuid>301b46e0-e51e-49bf-893d-164c7af8f72f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +99,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[(text() = '1950.00Show More' or . = '1950.00Show More')]</value>
-      <webElementGuid>1dc6646c-fcba-4e66-8513-ed0a8836c273</webElementGuid>
+      <webElementGuid>93bc0c93-83f3-4f1b-ac97-e01f68c33958</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

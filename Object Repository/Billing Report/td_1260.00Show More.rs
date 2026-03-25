@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_1260.00Show More</name>
+   <tag></tag>
+   <elementGuidId>037aad60-6953-4378-a4be-48507865ee45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(11)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='kt_datatable_vertical_scroll']/tbody/tr/td[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7458ef2d-c965-44f2-bba7-42ba0104ef39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1260.00Show More</value>
+      <webElementGuid>06c91564-e51b-4dc1-beeb-51cffc707950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_app_content_container&quot;)/div[@class=&quot;page-propertyPayoutReport&quot;]/div[@class=&quot;table-overflow&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;scrollable&quot;]/table[@id=&quot;kt_datatable_vertical_scroll&quot;]/tbody[@class=&quot;fw-normal fs-8 text-gray-800 pr-table-content&quot;]/tr[@class=&quot;pr-row-border&quot;]/td[11]</value>
+      <webElementGuid>246e0e5c-f77c-4b92-86c9-7cac42001103</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='kt_datatable_vertical_scroll']/tbody/tr/td[11]</value>
+      <webElementGuid>6952a7a9-7723-497e-88cb-5f3a3c2c2281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/following::td[1]</value>
+      <webElementGuid>2214e8c4-f48b-4c40-b2df-12774f51495c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WADRIHOVA'])[1]/following::td[8]</value>
+      <webElementGuid>f87ba208-c848-49b4-96c6-18d83c4afc68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Occupied'])[1]/preceding::td[10]</value>
+      <webElementGuid>acd3d27d-f107-467d-bbe2-c077eebd580b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[11]</value>
+      <webElementGuid>03850993-b5c4-4d64-a9da-04be38f0e61f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '1260.00Show More' or . = '1260.00Show More')]</value>
+      <webElementGuid>54680323-2463-428d-8578-88fd19fd5f01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
