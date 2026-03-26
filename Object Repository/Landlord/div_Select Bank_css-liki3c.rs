@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Bank_css-liki3c</name>
+   <tag></tag>
+   <elementGuidId>bfeab68a-133c-4e2c-8c6a-4f6cbaa48a2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.row > div.mb-3 > div.css-b62m3t-container > div.css-r5vfb9-control > div.css-t6uyiw > div.css-liki3c</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='kt_modal_create_app_form']/div[4]/div/div/div/div/div/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>948845a9-555c-483d-879c-521e72fc476c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-liki3c</value>
+      <webElementGuid>fd87ee81-e363-452d-805c-a60b5cd8eca0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_modal_create_app_form&quot;)/div[@class=&quot;accordion&quot;]/div[@class=&quot;accordion-item&quot;]/div[@class=&quot;accordion-collapse collapse show&quot;]/div[@class=&quot;accordion-body&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;css-b62m3t-container&quot;]/div[@class=&quot;css-r5vfb9-control&quot;]/div[@class=&quot;css-t6uyiw&quot;]/div[@class=&quot;css-liki3c&quot;]</value>
+      <webElementGuid>881307c7-b9dd-4b45-b0a9-5d9a76a2da59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='kt_modal_create_app_form']/div[4]/div/div/div/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>18c88908-4d22-47bb-9010-591215137bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Bank'])[1]/following::div[1]</value>
+      <webElementGuid>85aec87d-a6f0-4fbd-b627-ec775198c490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank Name'])[1]/following::div[5]</value>
+      <webElementGuid>2b4a0c90-557d-4c97-a601-ab09b313ce14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Name'])[1]/preceding::div[4]</value>
+      <webElementGuid>90336aec-f80b-4880-80f5-03896a470f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>e352f5c4-076b-4c37-88a2-790389b9b19b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Ali  017-3510992  imali0926yopmail.com</name>
+   <tag></tag>
+   <elementGuidId>b3b1068a-da19-4ee3-8e43-fde82b03a537</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-3-option-0 > div > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-3-option-0']/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2362505d-2418-40c4-bd56-720dd7dd044e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ali | 017-3510992 | imali0926@yopmail.com</value>
+      <webElementGuid>b3ea5b25-bf41-4f48-8ba3-846ce6c0c450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-3-option-0&quot;)/div[1]/p[1]</value>
+      <webElementGuid>3ac3b235-a009-4d0c-b6a8-a4f7d57e5f91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-3-option-0']/div/p</value>
+      <webElementGuid>1c13c850-a9d1-4a85-805c-f6c17286283f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recommendation'])[1]/following::p[1]</value>
+      <webElementGuid>5cd78f4e-079a-45f0-8dca-08a2151accf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Landlord Full Name | Mobile Contact | Email Address'])[1]/following::p[1]</value>
+      <webElementGuid>cd4908a9-0840-4104-8ef6-e055bf9df063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::p[1]</value>
+      <webElementGuid>ad899900-f21f-4bc9-8981-b1200756a93c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next Step'])[2]/preceding::p[1]</value>
+      <webElementGuid>2613df01-5f44-46b3-b16d-051c30c44499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>d06d795d-4b7c-4f1f-b07b-2139ec25d707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Ali | 017-3510992 | imali0926@yopmail.com' or . = 'Ali | 017-3510992 | imali0926@yopmail.com')]</value>
+      <webElementGuid>fd2214c4-d5c8-4fc4-b5f8-f7cdc194c1dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

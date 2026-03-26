@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>011-Assign Landlord</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b28360b6-fc75-4e56-8fee-db35964f3445</testCaseGuid>
+</TestCaseEntity>

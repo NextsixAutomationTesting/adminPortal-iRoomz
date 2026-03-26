@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_BIK5299_Room 1 - 1280.00(LOTBINIER  0155420742  boardin-depthyopmail.com)</name>
+   <tag></tag>
+   <elementGuidId>0562930a-c17b-4a4d-a124-74f998bb6ff6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;kt_datatable_vertical_scroll&quot;]/tbody/tr[1]/td[3]/div[1]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>36b80791-4fb7-491b-a953-5e31fc2bdaeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BIK5299_Room 1 - 1280.00(LOTBINIER | 0155420742 | boardin-depth@yopmail.com)</value>
+      <webElementGuid>2e543f9a-10e1-4749-a895-eccb3d6de824</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_datatable_vertical_scroll&quot;)/tbody[1]/tr[@class=&quot;mainRow&quot;]/td[@class=&quot;roomName&quot;]/div[1]/p[1]</value>
+      <webElementGuid>e1942231-6484-4f82-8666-ea41f41a56fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='kt_datatable_vertical_scroll']/tbody/tr/td[3]/div/p</value>
+      <webElementGuid>fbb37161-49a0-4262-a994-18f742e3ab0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BIK5299'])[1]/following::p[1]</value>
+      <webElementGuid>e702c8f5-e4f6-442e-a10e-17e009d6fc86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::p[1]</value>
+      <webElementGuid>3b422b33-7b9a-4424-bdea-0bb6886b0a10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iroomz'])[1]/preceding::p[2]</value>
+      <webElementGuid>572889ad-e9ca-41a8-adc6-0b82b45adfde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BIK5299_Room 1']/parent::*</value>
+      <webElementGuid>727d8e7b-5569-40f7-8ea6-545220f696be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>ee2ba0c2-b879-4be8-98c6-e9f9010a8a93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'BIK5299_Room 1 - 1280.00(LOTBINIER | 0155420742 | boardin-depth@yopmail.com)' or . = 'BIK5299_Room 1 - 1280.00(LOTBINIER | 0155420742 | boardin-depth@yopmail.com)')]</value>
+      <webElementGuid>c204a676-4eb8-44a4-bbf8-d0ed14859cc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
