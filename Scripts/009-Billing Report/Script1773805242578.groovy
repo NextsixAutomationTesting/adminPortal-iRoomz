@@ -35,7 +35,7 @@ unit = WebUI.getText(findTestObject('Billing Report/span_NYY6870'))
 
 amount = WebUI.getText(findTestObject('Billing Report/span_1260.00'))
 
-report = (amount + '\n'+'Show More')
+report = ((amount + '\n') + 'Show More')
 
 WebUI.doubleClick(findTestObject('Billing Report/div_Issued - Payment Failed'))
 
@@ -67,12 +67,12 @@ WebUI.setText(findTestObject('Billing Report/input_Logout_form-control td-filter
 
 WebUI.click(findTestObject('Billing Report/button_search'))
 
-if (WebUI.verifyElementNotPresent(findTestObject('Billing Report/h4_UWR3551')))
+if (WebUI.verifyElementText(findTestObject('Object Repository/Billing Report/span_0 records'), '0 records')) 
 	{
-		WebUI.selectOptionByIndex(findTestObject('Billing Report/select_Management UnitNon-Management Unit'), 1)
-		
-		WebUI.click(findTestObject('Billing Report/button_search'))
-	}
+    WebUI.selectOptionByIndex(findTestObject('Billing Report/select_Management UnitNon-Management Unit'), 1)
+
+    WebUI.click(findTestObject('Billing Report/button_search'))
+}
 
 WebUI.verifyElementText(findTestObject('Billing Report/td_1260.00Show More'), report)
 
