@@ -21,7 +21,7 @@ import java.time.format.DateTimeFormatter as DateTimeFormatter
 import java.text.SimpleDateFormat as SimpleDateFormat
 import java.util.Date as Date
 
-WebUI.callTestCase(findTestCase('000-Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('01-Login/000-Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Landlord/span_Landlord'))
 

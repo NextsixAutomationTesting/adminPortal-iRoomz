@@ -6,12 +6,12 @@
    <elementGuidId>d1fdc0f6-b9d3-4eef-93fa-e284209b4a56</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='propertyUnitName']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#propertyUnitName</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='propertyUnitName']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>80329be1-8045-4843-acc3-e1d0ab98a978</webElementGuid>
+      <webElementGuid>f028b035-810e-46ec-89bd-445ccea53488</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Unit Name</value>
-      <webElementGuid>5d0854f6-b924-466c-85c4-a2f3e3d007b7</webElementGuid>
+      <webElementGuid>4a3bfe55-3457-4fd0-a088-f71a521676fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>25bdfee9-b5ee-4972-bdcb-aa4cd8c25c09</webElementGuid>
+      <webElementGuid>6a60f004-6cee-4dd7-83f6-81f8aeef35f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>propertyUnitName</value>
-      <webElementGuid>0f78899f-da01-4da8-8010-c0818579d1db</webElementGuid>
+      <webElementGuid>3036a9bc-9bb6-4cbc-ad92-caf037d67643</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>b0f3a6eb-fe32-4f32-b020-8f902755047b</webElementGuid>
+      <webElementGuid>898c9cff-49f5-46d6-94c4-e735df2cf86d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;propertyUnitName&quot;)</value>
-      <webElementGuid>381de28b-4334-4038-8389-63963d0a12d8</webElementGuid>
+      <webElementGuid>988ce24c-8360-4d7f-b9f6-e310bf990e92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>SEZ3465</value>
+      <webElementGuid>8cc03d88-8be7-41ee-a0a5-76382d4b2f11</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='propertyUnitName']</value>
-      <webElementGuid>b99bcc60-7398-42a8-a460-b2b988480f7b</webElementGuid>
+      <webElementGuid>62453a2e-dedb-48a8-b2ee-19be5f5c1cca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='kt_modal_create_app_form']/div/div/div/input</value>
-      <webElementGuid>562fa723-117f-4a4c-b20e-25b7527c527e</webElementGuid>
+      <webElementGuid>3dcb8a94-7b6f-4413-9b3f-d2ea51969410</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/div/input</value>
-      <webElementGuid>20eeed3b-155d-4e98-bd3c-17845cabc421</webElementGuid>
+      <webElementGuid>4bf0a83a-ce47-4e78-80a3-606c3183b2d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'Unit Name' and @type = 'text' and @id = 'propertyUnitName']</value>
-      <webElementGuid>e2543f1e-27bb-4802-ab03-64a9e38f0a9d</webElementGuid>
+      <webElementGuid>bf990515-9839-40fb-99aa-86d66c9d8275</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

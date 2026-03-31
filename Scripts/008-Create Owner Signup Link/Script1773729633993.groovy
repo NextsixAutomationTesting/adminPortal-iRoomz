@@ -21,7 +21,7 @@ import java.awt.Toolkit as Toolkit
 import java.awt.datatransfer.Clipboard as Clipboard
 import java.awt.datatransfer.DataFlavor as DataFlavor
 
-WebUI.callTestCase(findTestCase('000-Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('01-Login/000-Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Owner/span_Owner'))
 
