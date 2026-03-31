@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Visit this link to reset your password</name>
+   <tag></tag>
+   <elementGuidId>4d538af3-c6a5-4cb3-b634-f4475eb40064</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mail']/div/b[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dbfbee29-a996-4964-8a9e-41b9751cd3ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>sit-admin.iroomz.com/reset-password/28c786038d09b89b4eea95ce9b0290ab0195616fbff7794f8823dc7935f26b40</value>
+      <webElementGuid>83704360-b22c-4d37-8de1-90fcfd84a43c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Visit this link to reset your password</value>
+      <webElementGuid>d137bcdf-ac46-4480-8860-28f64c629f28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mail&quot;)/div[1]/b[2]/a[1]</value>
+      <webElementGuid>277ca52f-9a95-4eff-bdac-0f677d20dd1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Login/iframe_Undo_ifmail</value>
+      <webElementGuid>e776ac2d-84f3-4cf2-a27b-2a0938d51c09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mail']/div/b[2]/a</value>
+      <webElementGuid>cb58f6a0-000a-435d-ae17-82189df616df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Visit this link to reset your password')]</value>
+      <webElementGuid>8c19f080-c173-499d-8605-2acdf0fff255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iRoomz Admin'])[1]/following::a[1]</value>
+      <webElementGuid>b6e14249-8fd0-4275-9152-7832baada61e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi alee,'])[1]/following::a[1]</value>
+      <webElementGuid>da0ed877-9686-4645-8cb5-b60036250971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This link is only valid for the next 24 hours'])[1]/preceding::a[1]</value>
+      <webElementGuid>e248649e-e5e7-48ed-9328-22fd66053511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='here'])[1]/preceding::a[1]</value>
+      <webElementGuid>065b0a71-6d70-4a5c-a886-1a7c79e39d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Visit this link to reset your password']/parent::*</value>
+      <webElementGuid>555025da-4da4-404c-be8d-6cc8843e368c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'sit-admin.iroomz.com/reset-password/28c786038d09b89b4eea95ce9b0290ab0195616fbff7794f8823dc7935f26b40')]</value>
+      <webElementGuid>0707d11b-49d1-48d5-b035-1c7811439601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>965f4537-d144-4916-94e6-f94cd24ac712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'sit-admin.iroomz.com/reset-password/28c786038d09b89b4eea95ce9b0290ab0195616fbff7794f8823dc7935f26b40' and (text() = 'Visit this link to reset your password' or . = 'Visit this link to reset your password')]</value>
+      <webElementGuid>df593d2e-970c-424c-a57e-27b4bb65116c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

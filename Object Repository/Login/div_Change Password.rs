@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Change Password</name>
+   <tag></tag>
+   <elementGuidId>2781a5ad-5d58-4cb6-8cd9-e8c29257c729</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_app_content_container']/div/div/div/div[3]/button[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c4e8eff4-20dd-4f72-997d-6660f8f9dcac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-my-profile</value>
+      <webElementGuid>32c1825c-343f-44d5-aea2-b4c77aba3d0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Change Password</value>
+      <webElementGuid>b9e6e1f6-f4a3-4fae-ab39-a6202bb30f7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_app_content_container&quot;)/div[@class=&quot;profile-container&quot;]/div[@class=&quot;card card-custom card-shadow card-profile-left&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;profile-info-btn-container&quot;]/button[@class=&quot;btn btn-active-light-dark profile-info-left-btn&quot;]/div[@class=&quot;right-sidebar-btn-text&quot;]/div[@class=&quot;btn-my-profile&quot;]</value>
+      <webElementGuid>74ff1a7a-577a-4f4d-8806-30a456ba4bb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_app_content_container']/div/div/div/div[3]/button[2]/div/div</value>
+      <webElementGuid>def80f88-d6b5-4bc8-8ccb-cd213e1bbf14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Profile'])[2]/following::div[2]</value>
+      <webElementGuid>fbafbc4b-e577-491d-9802-5ff24d21d062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Login'])[1]/following::div[6]</value>
+      <webElementGuid>a6cb982a-6e5b-4f64-a4b3-e0b9522ee78c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Information'])[1]/preceding::div[1]</value>
+      <webElementGuid>b61aa25d-d06f-42df-b47e-45c5c8070470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update your personal information'])[1]/preceding::div[2]</value>
+      <webElementGuid>25d6cec2-6c5b-4276-93c7-48b718a51937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]/div/div</value>
+      <webElementGuid>3ecb2dec-fdb2-4917-9a2d-9a0a088b82d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Change Password' or . = 'Change Password')]</value>
+      <webElementGuid>eefab7cc-984b-4ea0-8e42-1256e6f5fafc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

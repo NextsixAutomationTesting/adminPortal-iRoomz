@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password reset successfully. Click here_ffff70</name>
+   <tag></tag>
+   <elementGuidId>2b8dd3b2-3e0a-4b72-badf-5b78fba7df26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='kt_login_password_reset_form']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9fd89f3d-b73e-48f5-8b03-8c9a2bb5f1db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-success</value>
+      <webElementGuid>7f08eca2-1044-48c6-8834-b4c5bffbd426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password reset successfully. Click here to sign in and continue.</value>
+      <webElementGuid>93dfb545-e7ba-4ce7-8f6e-898c70c4190b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_login_password_reset_form&quot;)/div[@class=&quot;mb-lg-12 alert alert-success&quot;]/div[@class=&quot;text-success&quot;]</value>
+      <webElementGuid>129ebf25-158b-4b15-a08e-9dd7456f40ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='kt_login_password_reset_form']/div[2]/div</value>
+      <webElementGuid>d5ca792b-a828-44d0-9cad-d8f14c66d4d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::div[5]</value>
+      <webElementGuid>022b377b-3d2b-4085-b7dd-4d8a9a68b5e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update password'])[1]/following::div[9]</value>
+      <webElementGuid>4533dbe6-d813-4e05-8b95-a2f8529a4753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Password'])[1]/preceding::div[1]</value>
+      <webElementGuid>153550af-2b8b-4625-ac4d-93ac0c82d9d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password reset successfully.']/parent::*</value>
+      <webElementGuid>b78fd2d7-1267-4f06-a351-24dd31761e66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div</value>
+      <webElementGuid>20670564-2a55-4bdb-9571-28db4848c7e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Password reset successfully. Click here to sign in and continue.' or . = 'Password reset successfully. Click here to sign in and continue.')]</value>
+      <webElementGuid>dfb98278-7c1f-4f21-be94-573567a0eb13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
