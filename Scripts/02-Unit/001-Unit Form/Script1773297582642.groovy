@@ -151,5 +151,34 @@ WebUI.click(findTestObject('Unit/a_Edit Unit Info'))
 
 WebUI.setText(findTestObject('Unit/input_Unit Name_propertyUnitName'), unitEdit)
 
+WebUI.scrollToElement(findTestObject('Unit/span_Update'), 10)
+
 WebUI.click(findTestObject('Unit/span_Update'))
+
+if (manage == 2) {
+    editVerify = (('M' + '\n') + unitEdit)
+} else {
+    editVerify = unitEdit
+}
+
+WebUI.verifyElementText(findTestObject('Unit/span_MJAT8624_EDITED'), editVerify)
+
+/*UPLOAD ATTACHMENT*/
+WebUI.click(findTestObject('Unit/button_'))
+
+WebUI.click(findTestObject('Unit/a_Edit Attachment'))
+
+file1 = 'C:\\file1.png'
+
+WebUI.uploadFile(findTestObject('Unit/div_Upload New Attachment_at-input-upload'), file1)
+
+WebUI.click(findTestObject('Unit/span_Submit'))
+
+WebUI.waitForElementPresent(findTestObject('Unit/div_New attachment uploaded successfully'), 10)
+
+WebUI.click(findTestObject('Unit/button_'))
+
+WebUI.click(findTestObject('Unit/a_Edit Attachment'))
+
+WebUI.verifyElementPresent(findTestObject('Unit/img'), 10)
 

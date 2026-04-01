@@ -6,6 +6,10 @@
    <elementGuidId>9fe9e27d-d8e4-4f93-81e9-70f54252d814</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//span[(text() = 'Update' or . = 'Update')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>span.indicator-label</value>
       </entry>
@@ -14,16 +18,16 @@
          <value>//form[@id='kt_modal_create_app_form']/div[9]/button[2]/span</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>3ef6554e-4c2b-4db0-8b98-ebef61d5c770</webElementGuid>
+      <webElementGuid>6d5f47af-dc6a-40eb-a6c3-42f70f0a4af5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +35,7 @@
       <name>class</name>
       <type>Main</type>
       <value>indicator-label</value>
-      <webElementGuid>8de58c75-d4e8-4757-a122-bf304185d804</webElementGuid>
+      <webElementGuid>462c5845-e8bd-49c5-93d9-f5e3309dc1a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +43,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Update</value>
-      <webElementGuid>0c5fbd1a-a21b-4569-b496-99ca858a67f8</webElementGuid>
+      <webElementGuid>cb169fcc-84f6-4a9a-b607-0b8c07922f54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +51,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kt_modal_create_app_form&quot;)/div[@class=&quot;d-flex pt-10 modal-action&quot;]/button[@class=&quot;btn btn-lg btn-primary&quot;]/span[@class=&quot;indicator-label&quot;]</value>
-      <webElementGuid>c0ef4299-d8e6-4868-8159-55d5d71aa028</webElementGuid>
+      <webElementGuid>59da4bc2-9a4a-490f-a3a7-860d71d91757</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +59,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='kt_modal_create_app_form']/div[9]/button[2]/span</value>
-      <webElementGuid>e0a60420-03a2-4424-b184-4eaef2a2d986</webElementGuid>
+      <webElementGuid>a967381e-edd1-487d-b824-4904e6bd0f3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +67,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::span[1]</value>
-      <webElementGuid>eddaad24-3cda-4140-a5f0-ee166d6729b8</webElementGuid>
+      <webElementGuid>73ee013e-9f66-440a-a993-7457bb873f6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +75,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Country'])[1]/following::span[1]</value>
-      <webElementGuid>f86534b0-aa99-4e5b-9036-94ab200bb27d</webElementGuid>
+      <webElementGuid>7a964559-affb-46ea-be52-547f4b0c6bca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +83,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Update']/parent::*</value>
-      <webElementGuid>36a8871e-0cdc-41f5-bc37-ae2ecf0a8e7b</webElementGuid>
+      <webElementGuid>761eed8e-15ff-47ec-a745-8c7917ffe75a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +91,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]/span</value>
-      <webElementGuid>49796f8f-7f6f-41eb-8d95-f0a83a8a3fb5</webElementGuid>
+      <webElementGuid>6370fb3c-022c-415c-bf92-0ddc38c5a18b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +99,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Update' or . = 'Update')]</value>
-      <webElementGuid>54f0497d-9ce4-4193-a4b7-54ee12ca2deb</webElementGuid>
+      <webElementGuid>b74c04d7-0dbe-43df-82fe-b2ea5aa3728b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
